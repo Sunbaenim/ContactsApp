@@ -1,0 +1,15 @@
+C:\Users\fille\source\repos\ContactsApp\ContactsApp.DAL\bin\Debug\net5.0\ContactsApp.DAL.deps.json
+C:\Users\fille\source\repos\ContactsApp\ContactsApp.DAL\bin\Debug\net5.0\ContactsApp.DAL.runtimeconfig.json
+C:\Users\fille\source\repos\ContactsApp\ContactsApp.DAL\bin\Debug\net5.0\ContactsApp.DAL.runtimeconfig.dev.json
+C:\Users\fille\source\repos\ContactsApp\ContactsApp.DAL\bin\Debug\net5.0\ContactsApp.DAL.dll
+C:\Users\fille\source\repos\ContactsApp\ContactsApp.DAL\bin\Debug\net5.0\ref\ContactsApp.DAL.dll
+C:\Users\fille\source\repos\ContactsApp\ContactsApp.DAL\bin\Debug\net5.0\ContactsApp.DAL.pdb
+C:\Users\fille\source\repos\ContactsApp\ContactsApp.DAL\obj\Debug\net5.0\ContactsApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fille\source\repos\ContactsApp\ContactsApp.DAL\obj\Debug\net5.0\ContactsApp.DAL.AssemblyInfoInputs.cache
+C:\Users\fille\source\repos\ContactsApp\ContactsApp.DAL\obj\Debug\net5.0\ContactsApp.DAL.AssemblyInfo.cs
+C:\Users\fille\source\repos\ContactsApp\ContactsApp.DAL\obj\Debug\net5.0\ContactsApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\fille\source\repos\ContactsApp\ContactsApp.DAL\obj\Debug\net5.0\ContactsApp.DAL.dll
+C:\Users\fille\source\repos\ContactsApp\ContactsApp.DAL\obj\Debug\net5.0\ref\ContactsApp.DAL.dll
+C:\Users\fille\source\repos\ContactsApp\ContactsApp.DAL\obj\Debug\net5.0\ContactsApp.DAL.pdb
+C:\Users\fille\source\repos\ContactsApp\ContactsApp.DAL\obj\Debug\net5.0\ContactsApp.DAL.genruntimeconfig.cache
+C:\Users\fille\source\repos\ContactsApp\ContactsApp.DAL\obj\Debug\net5.0\ContactsApp.DAL.csproj.AssemblyReference.cache
