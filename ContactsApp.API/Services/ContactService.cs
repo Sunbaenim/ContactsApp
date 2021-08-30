@@ -24,8 +24,6 @@ namespace ContactsApp.API.Services
         {
             Contact saved = dc.Contacts.Add(dto.MapTo<Contact>()).Entity;
             dc.SaveChanges();
-            dc.Phones.Add(dto.Phone.MapTo<Phone>(p => p.ContactId = saved.Id));
-            dc.SaveChanges();
         }
 
         public IEnumerable<ContactIndexDTO> Read(ContactFilterDTO filter)
@@ -34,6 +32,8 @@ namespace ContactsApp.API.Services
             return dc.Contacts
                 //.Where()
                 .Where(c => filter.LastName == null || c.LastName == filter.LastName)
+                .OrderBy(c => c.LastName)
+                .ThenBy(c => c.FirstName)
                 .MapToList<ContactIndexDTO>();
         }
 
@@ -45,11 +45,10 @@ namespace ContactsApp.API.Services
             return contact?.MapTo<ContactDetailsDTO>(c => c.Phones = contact.Phones.MapToList<PhoneIndexDTO>().ToList());
         }
 
-        public void Update(int id, ContactAddDTO form)
+        public void Update(int id, ContactUpdateDTO form)
         {
             Contact contact = dc.Contacts.Find(id);
-            
-            dc.Contacts.Update(form.MapTo<Contact>());
+            form.MapToInstance<Contact>(contact);
             dc.SaveChanges();
         }
 

@@ -42,7 +42,7 @@ namespace ContactsApp.API.Controllers
         }
 
         [HttpPut("{id}")]
-        public IActionResult UpdateContact(int id, ContactAddDTO form)
+        public IActionResult UpdateContact(int id, ContactUpdateDTO form)
         {
             cService.Update(id, form);
             return NoContent();

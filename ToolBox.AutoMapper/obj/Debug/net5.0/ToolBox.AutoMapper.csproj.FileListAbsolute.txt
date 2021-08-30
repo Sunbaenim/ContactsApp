@@ -10,3 +10,15 @@ C:\Users\fille\source\repos\ContactsApp\ToolBox.AutoMapper\obj\Debug\net5.0\Tool
 C:\Users\fille\source\repos\ContactsApp\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.dll
 C:\Users\fille\source\repos\ContactsApp\ToolBox.AutoMapper\obj\Debug\net5.0\ref\ToolBox.AutoMapper.dll
 C:\Users\fille\source\repos\ContactsApp\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.pdb
+C:\Users\Student\Documents\Program\ContactsApp\ToolBox.AutoMapper\bin\Debug\net5.0\ToolBox.AutoMapper.deps.json
+C:\Users\Student\Documents\Program\ContactsApp\ToolBox.AutoMapper\bin\Debug\net5.0\ToolBox.AutoMapper.dll
+C:\Users\Student\Documents\Program\ContactsApp\ToolBox.AutoMapper\bin\Debug\net5.0\ref\ToolBox.AutoMapper.dll
+C:\Users\Student\Documents\Program\ContactsApp\ToolBox.AutoMapper\bin\Debug\net5.0\ToolBox.AutoMapper.pdb
+C:\Users\Student\Documents\Program\ContactsApp\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Program\ContactsApp\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Program\ContactsApp\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Program\ContactsApp\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.AssemblyInfo.cs
+C:\Users\Student\Documents\Program\ContactsApp\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Program\ContactsApp\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.dll
+C:\Users\Student\Documents\Program\ContactsApp\ToolBox.AutoMapper\obj\Debug\net5.0\ref\ToolBox.AutoMapper.dll
+C:\Users\Student\Documents\Program\ContactsApp\ToolBox.AutoMapper\obj\Debug\net5.0\ToolBox.AutoMapper.pdb

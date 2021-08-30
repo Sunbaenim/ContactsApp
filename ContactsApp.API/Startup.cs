@@ -43,6 +43,7 @@ namespace ContactsApp.API
 
             services.AddDbContext<ContactDbContext>();
             services.AddScoped<ContactService>();
+            services.AddScoped<PhoneService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
