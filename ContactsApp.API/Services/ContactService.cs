@@ -24,6 +24,8 @@ namespace ContactsApp.API.Services
         {
             Contact saved = dc.Contacts.Add(dto.MapTo<Contact>()).Entity;
             dc.SaveChanges();
+            dc.Phones.Add(dto.Phone.MapTo<Phone>(p => p.ContactId = saved.Id));
+            dc.SaveChanges();
         }
 
         public IEnumerable<ContactIndexDTO> Read(ContactFilterDTO filter)
