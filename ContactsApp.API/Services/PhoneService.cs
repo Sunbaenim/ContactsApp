@@ -34,6 +34,7 @@ namespace ContactsApp.API.Services
 
         public void Update(int id, PhoneUpdateDTO dto)
         {
+            Console.WriteLine("ALLLLOOOOOOOOOOO");
             Phone phone = dc.Phones.Where(p => p.ContactId == id).FirstOrDefault();
             dto.MapToInstance<Phone>(phone);
             dc.SaveChanges();
